@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Huy Nguyen 👋  <br><br>🚀 Freelance Web & Mobile Developer<br>💻 Passionate about building digital products with Next.js, React, Flutter, C#, SQL Server...  <br>🎨 Interested in UI/UX design, graphic design, and video editing.  <br>📈 Always looking for opportunities to collaborate and develop real-world projects.  
+Hi there, I'm Huy Nguyen 👋  <br><br>🚀 Fresher Web & Mobile Developer<br>💻 Passionate about building digital products with Next.js, React, Flutter, C#, SQL Server...  <br>🎨 Interested in UI/UX design, graphic design, and video editing.  <br>📈 Always looking for opportunities to collaborate and develop real-world projects.  
 
 
 ## 🌐 Socials:
